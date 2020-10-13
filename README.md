@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lupeipei&show_icons=true&theme=vue" alt="Lucia's github stats" />
+
 ### Hi there 👋
 
 <!--
